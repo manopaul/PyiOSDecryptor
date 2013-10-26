@@ -1,5 +1,5 @@
-Decrypting_iOS_Apps
-===================
+PyiOSDecryptor
+==============
 
 Python script to automate the decryption of iOS Apps
 
